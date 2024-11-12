@@ -6,7 +6,12 @@
     <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ApplicationIcon>Listagem3.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Listagem3.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Ookii.Dialogs.WinForms" Version="4.0.0" />
