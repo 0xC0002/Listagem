@@ -53,7 +53,7 @@ Gal Costa - Índia 1973
 
 1. Clone o repositório para o seu computador:
    ```bash
-   git clone https://github.com/seu-usuario/MultiFolderSelector.git
+   git clone https://github.com/0xC0002/Listagem.git
    ```
 
 2. Abra o projeto no Visual Studio e compilar o projeto.
