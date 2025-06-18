@@ -1,7 +1,6 @@
 # MultiFolderSelector
 
-**MultiFolderSelector** é uma ferramenta para Windows que permite copiar a estrutura de pastas e listar arquivos em um formato de texto. Com um simples clique com o botão direito do mouse no menu de contexto do Windows, você pode obter a estrutura de uma pasta e seus arquivos.
-
+**MultiFolderSelector** é uma ferramenta para Windows que permite copiar a estrutura de pastas e listar arquivos em um formato de texto. 
 ## Funcionalidades
 
 - **Copiar Estrutura de Pastas:** Seleciona uma ou mais pastas e copia a estrutura de diretórios e os nomes dos arquivos para a área de transferência.
